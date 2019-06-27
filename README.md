@@ -1,8 +1,8 @@
 # git_practice
 Repo for practicing git
 
->>> git add <file list>
->>> git commit
+`git add <file list>`
+`git commit`
 <em>// Commit the specified files to the local repo</em>
 
 `git status`  
